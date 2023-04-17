@@ -38,4 +38,8 @@ public class UserUpdateDTO {
         this.address = address;
     }
 
+//    public void modify() {
+//
+//    }
+
 }
